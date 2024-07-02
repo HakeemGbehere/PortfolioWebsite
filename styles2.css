@@ -1,0 +1,5 @@
+.avatar-image {
+    width: 25px; /* Set your desired width */
+    height: 250px; /* Set your desired height */
+    object-fit: cover; /* Ensures the image covers the entire area */
+}
